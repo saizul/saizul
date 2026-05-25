@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**saizul/saizul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Saizul Amin
 
-Here are some ideas to get you started:
+🚀 Founder & Digital Systems Strategist from Bangladesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building scalable digital systems that combine technology, automation, SEO, and growth strategies to create measurable impact.
+
+## About Me
+
+🔹 Founder & Digital Growth Partner  
+🔹 Web Developer & SEO Strategist  
+🔹 Automation & Systems Builder  
+🔹 Focused on scalable growth engines  
+🔹 Interested in AI, Digital Infrastructure, and Business Systems  
+
+## What I Work With
+
+💻 Web Development  
+📈 SEO Strategy & Technical SEO  
+⚡ Workflow Automation  
+🤖 AI Integration & Digital Systems  
+🌐 Digital Growth Architecture  
+
+## Tech Stack
+
+- HTML, CSS, JavaScript
+- WordPress
+- PHP
+- SEO Tools
+- Automation Platforms
+- APIs & Integrations
+- AI Workflows
+
+## Current Focus
+
+- Building digital growth systems
+- AI-powered automation solutions
+- Scalable web experiences
+- Performance-driven SEO strategies
+
+## Connect With Me
+
+🌍 Website: saizul.com, saizulamin.com
+📧 Email: saizulamin@gmail.com, info@saizul.com
+
+---
+
+*"Building systems, not just projects."*
