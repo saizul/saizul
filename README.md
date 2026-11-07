@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:f472b6&height=190&section=header&text=Saizul%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Technical%20SEO%20%E2%80%A2%20Automation%20%26%20AI%20Systems&descAlignY=58&descSize=16" alt="Saizul Amin" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:f472b6&height=190&section=header&text=Saizul%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20-%20Technical%20SEO%20-%20Automation%20and%20AI&descAlignY=58&descSize=16" alt="Saizul Amin" width="100%"/>
 
 <a href="https://saizul.com"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+fast%2C+secure+WordPress+%26+web+apps;Technical+SEO+that+moves+real+traffic;n8n+automations+%26+AI+agents+for+businesses;Founder+%40+Unique+Mark+%E2%80%A2+Dhaka%2C+Bangladesh" alt="Typing intro"/></a>
 
