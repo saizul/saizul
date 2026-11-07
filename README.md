@@ -53,6 +53,11 @@ I'm **Saizul Amin**, a web developer, technical SEO specialist and automation bu
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**schema-markup-generator**](https://github.com/saizul/schema-markup-generator) · [live demo](https://saizul.github.io/schema-markup-generator/) | JSON-LD generator: 19 schema types, @graph mode, Google-based checker, English/Bangla UI | Vanilla JS |
+| [**wp-security-checker**](https://github.com/saizul/wp-security-checker) | Passive WordPress security checks with plugin-style registry, HTML reports, baseline diff | Python |
+| [**sitemap-seo-checker**](https://github.com/saizul/sitemap-seo-checker) | Audit every sitemap URL: status, canonical, noindex, robots, hreflang, orphan pages | Python |
+| [**meta-ads-report-generator**](https://github.com/saizul/meta-ads-report-generator) | Meta Ads CSV → client-ready HTML/Excel/PDF report with KPIs and insights | Python |
+| [**bd-phone-validator**](https://github.com/saizul/bd-phone-validator) | Validate & normalize Bangladeshi phone numbers, operator detection, CLI | TypeScript |
 | [**wp-speed-audit-cli**](https://github.com/saizul/wp-speed-audit-cli) | Audit any WordPress page: TTFB, caching, CDN, images, plugins, prioritized fixes | Python |
 | [**wp-blog-autopublisher-pro**](https://github.com/saizul/wp-blog-autopublisher-pro) | Markdown → scheduled WordPress posts with Yoast meta and auto featured images | Python · WP REST |
 | [**bangla-seo-meta-generator**](https://github.com/saizul/bangla-seo-meta-generator) | Grapheme-aware Bangla SEO checks, Bangla→Latin slugs, JSON-LD | Python |
