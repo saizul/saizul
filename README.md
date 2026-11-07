@@ -53,6 +53,11 @@ I'm **Saizul Amin**, a web developer, technical SEO specialist and automation bu
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**lead-capture-api**](https://github.com/saizul/lead-capture-api) | Lead intake API: validation, spam filtering, rate limits, retrying webhook/email/Telegram/Slack delivery | Python · FastAPI |
+| [**nextjs-agency-starter**](https://github.com/saizul/nextjs-agency-starter) | SEO-first bilingual (EN/BN) agency site: MDX blog, JSON-LD, OG images, signed-webhook contact form | Next.js · TypeScript |
+| [**woo-bd-shipping**](https://github.com/saizul/woo-bd-shipping) | 64-district shipping, COD fee and checkout tweaks for Bangladeshi WooCommerce stores | PHP · WooCommerce |
+| [**uptime-ssl-monitor**](https://github.com/saizul/uptime-ssl-monitor) | Uptime, TLS and domain-expiry monitor with alerts and a static status page | Node.js · TypeScript |
+| [**bangla-number-words**](https://github.com/saizul/bangla-number-words) | Numbers and Taka amounts in Bangla/English words, lakh/crore formatting, Bangla calendar | TypeScript |
 | [**schema-markup-generator**](https://github.com/saizul/schema-markup-generator) · [live demo](https://saizul.github.io/schema-markup-generator/) | JSON-LD generator: 19 schema types, @graph mode, Google-based checker, English/Bangla UI | Vanilla JS |
 | [**wp-security-checker**](https://github.com/saizul/wp-security-checker) | Passive WordPress security checks with plugin-style registry, HTML reports, baseline diff | Python |
 | [**sitemap-seo-checker**](https://github.com/saizul/sitemap-seo-checker) | Audit every sitemap URL: status, canonical, noindex, robots, hreflang, orphan pages | Python |
