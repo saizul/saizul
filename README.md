@@ -65,8 +65,8 @@ I'm **Saizul Amin**, a web developer, technical SEO specialist and automation bu
 ### 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saizul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saizul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saizul&theme=tokyonight" alt="GitHub stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saizul&theme=tokyonight" alt="Top languages"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=saizul&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
