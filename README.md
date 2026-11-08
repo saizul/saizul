@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:f472b6&height=190&section=header&text=Saizul%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20-%20Technical%20SEO%20-%20Automation%20and%20AI&descAlignY=58&descSize=16" alt="Saizul Amin" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:f472b6&height=190&section=header&text=Saizul%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Agent%20Developer%20-%20Automation%20Engineer%20-%20Web%20%26%20SEO&descAlignY=58&descSize=16" alt="Saizul Amin" width="100%"/>
 
-<a href="https://saizul.com"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+fast%2C+secure+WordPress+%26+web+apps;Technical+SEO+that+moves+real+traffic;n8n+automations+%26+AI+agents+for+businesses;Founder+%40+Unique+Mark+%E2%80%A2+Dhaka%2C+Bangladesh" alt="Typing intro"/></a>
+<a href="https://saizul.com"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+fast%2C+secure+WordPress+%26+web+apps;Technical+SEO+that+moves+real+traffic;n8n+automations+%26+AI+agents+for+businesses;AI+Automation+Engineer+%40+Unique+Mark+(UK)+%E2%80%A2+Dhaka%2C+BD" alt="Typing intro"/></a>
 
 <p>
 <a href="https://saizul.com"><img src="https://img.shields.io/badge/Website-saizul.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -15,7 +15,7 @@
 
 ### 👋 About me
 
-I'm **Saizul Amin**, a web developer, technical SEO specialist and automation builder from **Dhaka, Bangladesh**, and the founder of **Unique Mark**. I design and run digital systems end to end: fast WordPress and web apps, SEO that earns traffic, and n8n/AI automations that save teams hours every week.
+I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhaka, Bangladesh** with 5+ years of experience. I work remotely as an **AI Automation Engineer, Web Developer & SEO Specialist at Unique Mark Limited** (Birmingham, UK) and as an **IT Specialist at Green Fund Initiative** (New York, USA). I design and run digital systems end to end: fast WordPress and web apps, SEO that earns traffic, and n8n/AI automations that save teams hours every week.
 
 - 🌐 Building and hardening **WordPress, PHP and Next.js** sites on my own Ubuntu/CloudPanel VPS
 - 📈 Technical SEO: Core Web Vitals, indexing, schema, content systems for 2 production blogs
