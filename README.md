@@ -53,6 +53,11 @@ I'm **Saizul Amin**, a web developer, technical SEO specialist and automation bu
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**n8n-nodes-bangladesh**](https://github.com/saizul/n8n-nodes-bangladesh) | n8n community node: BD phone, Taka in words, Bangla calendar, districts | TypeScript · n8n |
+| [**elementor-data-tools**](https://github.com/saizul/elementor-data-tools) | Validate, edit, diff and safely write back Elementor page data | Python |
+| [**wp-image-optimizer-cli**](https://github.com/saizul/wp-image-optimizer-cli) | Bulk WebP/AVIF conversion for WordPress uploads with server snippets | Python |
+| [**invoice-generator-bd**](https://github.com/saizul/invoice-generator-bd) | PDF invoices with VAT/AIT and Taka in words (English & Bangla) | Python |
+| [**seo-content-brief**](https://github.com/saizul/seo-content-brief) | SEO content briefs from competitor pages: outline, terms, questions, E-E-A-T | Python |
 | [**lead-capture-api**](https://github.com/saizul/lead-capture-api) | Lead intake API: validation, spam filtering, rate limits, retrying webhook/email/Telegram/Slack delivery | Python · FastAPI |
 | [**nextjs-agency-starter**](https://github.com/saizul/nextjs-agency-starter) | SEO-first bilingual (EN/BN) agency site: MDX blog, JSON-LD, OG images, signed-webhook contact form | Next.js · TypeScript |
 | [**woo-bd-shipping**](https://github.com/saizul/woo-bd-shipping) | 64-district shipping, COD fee and checkout tweaks for Bangladeshi WooCommerce stores | PHP · WooCommerce |
