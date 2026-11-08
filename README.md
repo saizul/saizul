@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**gsc-insights**](https://github.com/saizul/gsc-insights) | Search Console export analysis: quick wins, cannibalisation, declining queries, HTML report | Python |
+| [**faq-chat-widget**](https://github.com/saizul/faq-chat-widget) · [live demo](https://saizul.github.io/faq-chat-widget/) | Embeddable FAQ chat bubble with Bangla/English fuzzy matching and WhatsApp handoff | JavaScript |
+| [**whatsapp-cloud-api-ts**](https://github.com/saizul/whatsapp-cloud-api-ts) | Typed WhatsApp Cloud API client with webhook verification and event parsing | TypeScript |
+| [**n8n-production-stack**](https://github.com/saizul/n8n-production-stack) | Docker Compose for n8n queue mode: workers, Postgres, Redis, Caddy HTTPS, backups | Docker |
+| [**wp-plugin-boilerplate-pro**](https://github.com/saizul/wp-plugin-boilerplate-pro) | Modern WordPress plugin starter: PSR-4, DI, REST, WP-CLI, tests, rename script | PHP |
 | [**n8n-nodes-bangladesh**](https://github.com/saizul/n8n-nodes-bangladesh) | n8n community node: BD phone, Taka in words, Bangla calendar, districts | TypeScript · n8n |
 | [**elementor-data-tools**](https://github.com/saizul/elementor-data-tools) | Validate, edit, diff and safely write back Elementor page data | Python |
 | [**wp-image-optimizer-cli**](https://github.com/saizul/wp-image-optimizer-cli) | Bulk WebP/AVIF conversion for WordPress uploads with server snippets | Python |
