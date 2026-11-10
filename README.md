@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**meta-capi-gateway**](https://github.com/saizul/meta-capi-gateway) | Self-hosted Meta Conversions API gateway: hashing, batching, WooCommerce webhooks | TypeScript |
+| [**cloudflare-wordpress-terraform**](https://github.com/saizul/cloudflare-wordpress-terraform) | Terraform module: Cloudflare DNS, TLS, cache rules and WAF for WordPress/WooCommerce | Terraform |
+| [**wp-vps-migration-toolkit**](https://github.com/saizul/wp-vps-migration-toolkit) | Migrate WordPress from shared hosting to a VPS with pre-DNS verification | Bash |
+| [**seo-redirect-mapper**](https://github.com/saizul/seo-redirect-mapper) | Build and validate 301 redirect maps for site migrations | Python |
+| [**bangla-slug**](https://github.com/saizul/bangla-slug) | WordPress plugin: Bangla titles to readable Latin slugs with 301 redirects | PHP |
 | [**gsc-insights**](https://github.com/saizul/gsc-insights) | Search Console export analysis: quick wins, cannibalisation, declining queries, HTML report | Python |
 | [**faq-chat-widget**](https://github.com/saizul/faq-chat-widget) · [live demo](https://saizul.github.io/faq-chat-widget/) | Embeddable FAQ chat bubble with Bangla/English fuzzy matching and WhatsApp handoff | JavaScript |
 | [**whatsapp-cloud-api-ts**](https://github.com/saizul/whatsapp-cloud-api-ts) | Typed WhatsApp Cloud API client with webhook verification and event parsing | TypeScript |
