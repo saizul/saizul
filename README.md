@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**courier-bd-sdk**](https://github.com/saizul/courier-bd-sdk) | One TypeScript SDK for Pathao, Steadfast and RedX: orders, tracking, webhooks, fallback routing | TypeScript |
+| [**woo-cod-risk-guard**](https://github.com/saizul/woo-cod-risk-guard) | WooCommerce plugin that scores COD orders for fake-order and return risk | PHP |
+| [**crawl-log-analyzer**](https://github.com/saizul/crawl-log-analyzer) | Server log analysis for SEO: verified bot crawls, crawl budget waste, orphans | Python |
+| [**internal-link-graph**](https://github.com/saizul/internal-link-graph) | Internal link graph, PageRank, click depth and link suggestions | Python |
+| [**n8n-workflow-git-sync**](https://github.com/saizul/n8n-workflow-git-sync) | Git version control, diff and secret linting for self-hosted n8n workflows | JavaScript |
 | [**meta-capi-gateway**](https://github.com/saizul/meta-capi-gateway) | Self-hosted Meta Conversions API gateway: hashing, batching, WooCommerce webhooks | TypeScript |
 | [**cloudflare-wordpress-terraform**](https://github.com/saizul/cloudflare-wordpress-terraform) | Terraform module: Cloudflare DNS, TLS, cache rules and WAF for WordPress/WooCommerce | Terraform |
 | [**wp-vps-migration-toolkit**](https://github.com/saizul/wp-vps-migration-toolkit) | Migrate WordPress from shared hosting to a VPS with pre-DNS verification | Bash |
