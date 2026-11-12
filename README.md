@@ -53,6 +53,16 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**bkash-checkout-ts**](https://github.com/saizul/bkash-checkout-ts) | TypeScript SDK for bKash Tokenized Checkout: payments, refunds, token caching, double-execute guard | TypeScript |
+| [**sslcommerz-py**](https://github.com/saizul/sslcommerz-py) | Python SDK and CLI for SSLCommerz: session init, IPN validation, hash checks, refunds | Python |
+| [**woo-courier-export**](https://github.com/saizul/woo-courier-export) | WooCommerce plugin: bulk-export orders to Steadfast, Pathao and RedX CSV formats | PHP |
+| [**meta-ads-guard**](https://github.com/saizul/meta-ads-guard) | YAML rules engine for Meta ad accounts: pause, scale and alert on CPA, ROAS and frequency | Python |
+| [**cwv-watch**](https://github.com/saizul/cwv-watch) | Core Web Vitals monitor: CrUX and PageSpeed Insights budgets, trends and alerts in CI | TypeScript |
+| [**nginx-wp-lint**](https://github.com/saizul/nginx-wp-lint) | Linter for WordPress nginx configs with location matching and SARIF output | Python |
+| [**wp-db-doctor**](https://github.com/saizul/wp-db-doctor) | Audit a WordPress database for bloat and breakage and generate reviewed cleanup SQL | Python |
+| [**hreflang-auditor**](https://github.com/saizul/hreflang-auditor) | Validate hreflang from HTML, HTTP headers and sitemaps, with an HTML language matrix | Python |
+| [**robots-txt-lab**](https://github.com/saizul/robots-txt-lab) | RFC 9309 robots.txt tester, linter and version differ | Python |
+| [**bangla-text-kit**](https://github.com/saizul/bangla-text-kit) | Zero-dependency Bangla normalization, search folding, tokenizer and phonetic typing | TypeScript |
 | [**courier-bd-sdk**](https://github.com/saizul/courier-bd-sdk) | One TypeScript SDK for Pathao, Steadfast and RedX: orders, tracking, webhooks, fallback routing | TypeScript |
 | [**woo-cod-risk-guard**](https://github.com/saizul/woo-cod-risk-guard) | WooCommerce plugin that scores COD orders for fake-order and return risk | PHP |
 | [**crawl-log-analyzer**](https://github.com/saizul/crawl-log-analyzer) | Server log analysis for SEO: verified bot crawls, crawl budget waste, orphans | Python |
