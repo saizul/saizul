@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**bd-address-parser**](https://github.com/saizul/bd-address-parser) | Parse Bangladeshi delivery addresses (English, Bangla, Banglish) into thana, district, division and postcode | TypeScript |
+| [**meta-lead-ads-sync**](https://github.com/saizul/meta-lead-ads-sync) | Facebook/Instagram Lead Ads webhook to Google Sheets, n8n and Telegram, with signature checks and dedupe | TypeScript |
+| [**wp-vuln-audit**](https://github.com/saizul/wp-vuln-audit) | Check WordPress core, plugins and themes against the Wordfence vulnerability feed, SARIF for CI | Python |
+| [**wp-cron-doctor**](https://github.com/saizul/wp-cron-doctor) | WP-CLI package that diagnoses WP-Cron and Action Scheduler problems and fixes them safely | PHP |
+| [**rich-results-lint**](https://github.com/saizul/rich-results-lint) | Structured data linter for schema.org and Google rich result requirements | Python |
 | [**bkash-checkout-ts**](https://github.com/saizul/bkash-checkout-ts) | TypeScript SDK for bKash Tokenized Checkout: payments, refunds, token caching, double-execute guard | TypeScript |
 | [**sslcommerz-py**](https://github.com/saizul/sslcommerz-py) | Python SDK and CLI for SSLCommerz: session init, IPN validation, hash checks, refunds | Python |
 | [**woo-courier-export**](https://github.com/saizul/woo-courier-export) | WooCommerce plugin: bulk-export orders to Steadfast, Pathao and RedX CSV formats | PHP |
