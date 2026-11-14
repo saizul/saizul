@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**woo-bd-sms-notify**](https://github.com/saizul/woo-bd-sms-notify) | WooCommerce order SMS for Bangladeshi gateways, Bangla segment counting and COD OTP | PHP |
+| [**wp-r2-offload**](https://github.com/saizul/wp-r2-offload) | Offload WordPress media to Cloudflare R2 with a dependency-free SigV4 client | PHP |
+| [**gsc-url-inspector**](https://github.com/saizul/gsc-url-inspector) | Bulk Search Console URL Inspection with quota-aware resumable runs and diffs | Python |
+| [**mail-auth-check**](https://github.com/saizul/mail-auth-check) | SPF, DKIM, DMARC, BIMI, MTA-STS and Gmail/Yahoo sender requirement checker | Python |
+| [**sitemap-diff-watch**](https://github.com/saizul/sitemap-diff-watch) | Track sitemaps over time: added/removed URLs, section growth and alerts | TypeScript |
 | [**bd-address-parser**](https://github.com/saizul/bd-address-parser) | Parse Bangladeshi delivery addresses (English, Bangla, Banglish) into thana, district, division and postcode | TypeScript |
 | [**meta-lead-ads-sync**](https://github.com/saizul/meta-lead-ads-sync) | Facebook/Instagram Lead Ads webhook to Google Sheets, n8n and Telegram, with signature checks and dedupe | TypeScript |
 | [**wp-vuln-audit**](https://github.com/saizul/wp-vuln-audit) | Check WordPress core, plugins and themes against the Wordfence vulnerability feed, SARIF for CI | Python |
