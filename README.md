@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**woo-courier-tracking**](https://github.com/saizul/woo-courier-tracking) | Live Steadfast, Pathao and RedX tracking for WooCommerce orders, with a customer tracking page | PHP |
+| [**cloudpanel-backup**](https://github.com/saizul/cloudpanel-backup) | Back up and restore CloudPanel sites and databases to R2, B2, S3 or rsync with retention | Python |
+| [**wp-docker-stack**](https://github.com/saizul/wp-docker-stack) | Production WordPress on Docker Compose: nginx cache, PHP-FPM, MariaDB, Redis, backups | Shell |
+| [**cf-worker-redirects**](https://github.com/saizul/cf-worker-redirects) | Bulk redirects and short links on Cloudflare Workers with validation and click analytics | TypeScript |
+| [**content-decay-finder**](https://github.com/saizul/content-decay-finder) | Find decaying pages in Search Console data and score what to refresh first | Python |
 | [**woo-bd-sms-notify**](https://github.com/saizul/woo-bd-sms-notify) | WooCommerce order SMS for Bangladeshi gateways, Bangla segment counting and COD OTP | PHP |
 | [**wp-r2-offload**](https://github.com/saizul/wp-r2-offload) | Offload WordPress media to Cloudflare R2 with a dependency-free SigV4 client | PHP |
 | [**gsc-url-inspector**](https://github.com/saizul/gsc-url-inspector) | Bulk Search Console URL Inspection with quota-aware resumable runs and diffs | Python |
