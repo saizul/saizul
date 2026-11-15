@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**wp-health-api**](https://github.com/saizul/wp-health-api) | Health check and Prometheus metrics endpoints for WordPress, with token auth and WP-CLI | PHP |
+| [**telegram-shop-bot**](https://github.com/saizul/telegram-shop-bot) | Telegram shop bot for Bangladeshi sellers: catalogue, cart, COD/bKash checkout, admin actions | TypeScript |
+| [**bd-holidays**](https://github.com/saizul/bd-holidays) | Bangladesh government holidays 2025-2027 and business-day maths, with iCal export | TypeScript |
+| [**link-rot-checker**](https://github.com/saizul/link-rot-checker) | Find broken links site-wide with redirect chains, soft 404s and Wayback suggestions | Python |
+| [**ubuntu-server-audit**](https://github.com/saizul/ubuntu-server-audit) | Read-only security audit for Ubuntu web servers with fix hints and a score | Python |
 | [**woo-courier-tracking**](https://github.com/saizul/woo-courier-tracking) | Live Steadfast, Pathao and RedX tracking for WooCommerce orders, with a customer tracking page | PHP |
 | [**cloudpanel-backup**](https://github.com/saizul/cloudpanel-backup) | Back up and restore CloudPanel sites and databases to R2, B2, S3 or rsync with retention | Python |
 | [**wp-docker-stack**](https://github.com/saizul/wp-docker-stack) | Production WordPress on Docker Compose: nginx cache, PHP-FPM, MariaDB, Redis, backups | Shell |
