@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**llms-txt-builder**](https://github.com/saizul/llms-txt-builder) | Generate and lint llms.txt and llms-full.txt from a sitemap or crawl, with a live diff | Python |
+| [**sitemap-cache-warmer**](https://github.com/saizul/sitemap-cache-warmer) | Warm page caches from sitemaps and verify every URL is a cache HIT, with TTFB reports | Python |
+| [**og-meta-audit**](https://github.com/saizul/og-meta-audit) | Audit Open Graph, Twitter cards, canonical and JSON-LD Person images across many URLs | TypeScript |
+| [**bangla-calendar**](https://github.com/saizul/bangla-calendar) | Bangla (Bongabdo) calendar for JS/TS with the revised Bangla Academy rules and a CLI | TypeScript |
+| [**wp-faq-schema**](https://github.com/saizul/wp-faq-schema) | FAQ block and shortcode with one combined FAQPage JSON-LD, merged into Yoast or Rank Math | PHP |
 | [**wp-health-api**](https://github.com/saizul/wp-health-api) | Health check and Prometheus metrics endpoints for WordPress, with token auth and WP-CLI | PHP |
 | [**telegram-shop-bot**](https://github.com/saizul/telegram-shop-bot) | Telegram shop bot for Bangladeshi sellers: catalogue, cart, COD/bKash checkout, admin actions | TypeScript |
 | [**bd-holidays**](https://github.com/saizul/bd-holidays) | Bangladesh government holidays 2025-2027 and business-day maths, with iCal export | TypeScript |
