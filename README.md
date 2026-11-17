@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**compose-stacks**](https://github.com/saizul/compose-stacks) | 18 production-ready Docker Compose stacks with a CLI to search, validate and init them with strong secrets | Python |
+| [**repo-doctor**](https://github.com/saizul/repo-doctor) | Score any repo 0-100 on open-source best practices and scaffold the missing files; CLI + GitHub Action | Python |
+| [**envguard**](https://github.com/saizul/envguard) | Type-safe env vars and .env hygiene: schema, check, diff, leaked-secret scan, .env.example sync | TypeScript |
+| [**i18n-check**](https://github.com/saizul/i18n-check) | Find missing, unused and broken translation keys for i18next, vue-i18n, next-intl, react-intl and more | TypeScript |
+| [**wp-debloat**](https://github.com/saizul/wp-debloat) | 41 switchable tweaks to turn off WordPress bloat and close info leaks, with presets and WP-CLI | PHP |
 | [**llms-txt-builder**](https://github.com/saizul/llms-txt-builder) | Generate and lint llms.txt and llms-full.txt from a sitemap or crawl, with a live diff | Python |
 | [**sitemap-cache-warmer**](https://github.com/saizul/sitemap-cache-warmer) | Warm page caches from sitemaps and verify every URL is a cache HIT, with TTFB reports | Python |
 | [**og-meta-audit**](https://github.com/saizul/og-meta-audit) | Audit Open Graph, Twitter cards, canonical and JSON-LD Person images across many URLs | TypeScript |
