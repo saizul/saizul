@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**db-backup-s3**](https://github.com/saizul/db-backup-s3) | MySQL/MariaDB and PostgreSQL backups in one Docker container: cron, encryption, S3/R2/B2/MinIO upload, retention, restore | Python |
+| [**webhook-relay**](https://github.com/saizul/webhook-relay) | Self-hosted webhook inbox: verifies GitHub, Stripe, Shopify and Slack signatures, retries, dead letters and replay | Python |
+| [**cron-explain**](https://github.com/saizul/cron-explain) | Explain cron expressions in English and Bangla, next run times in any time zone, and common-mistake warnings | TypeScript |
+| [**url-unfurl**](https://github.com/saizul/url-unfurl) | SSRF-safe link-preview metadata: Open Graph, Twitter cards, oEmbed, JSON-LD and favicons, zero dependencies | TypeScript |
+| [**wp-maintenance-lite**](https://github.com/saizul/wp-maintenance-lite) | No-upsell WordPress maintenance and coming-soon mode with real 503 + Retry-After, preview links and WP-CLI | PHP |
 | [**compose-stacks**](https://github.com/saizul/compose-stacks) | 18 production-ready Docker Compose stacks with a CLI to search, validate and init them with strong secrets | Python |
 | [**repo-doctor**](https://github.com/saizul/repo-doctor) | Score any repo 0-100 on open-source best practices and scaffold the missing files; CLI + GitHub Action | Python |
 | [**envguard**](https://github.com/saizul/envguard) | Type-safe env vars and .env hygiene: schema, check, diff, leaked-secret scan, .env.example sync | TypeScript |
