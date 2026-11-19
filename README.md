@@ -53,6 +53,26 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**retry-fetch**](https://github.com/saizul/retry-fetch) | fetch with retries, backoff + jitter, Retry-After, timeouts and a circuit breaker | TypeScript |
+| [**rate-limit-kit**](https://github.com/saizul/rate-limit-kit) | Token bucket and sliding-window rate limiting with Express, Hono and Redis support | TypeScript |
+| [**json-delta**](https://github.com/saizul/json-delta) | JSON diff to RFC 6902 patches, merge patches and a CI-friendly CLI | TypeScript |
+| [**md-toc**](https://github.com/saizul/md-toc) | Keep Markdown tables of contents up to date, with a --check mode and GitHub Action | TypeScript |
+| [**release-notes-gen**](https://github.com/saizul/release-notes-gen) | Next semver version and changelog from Conventional Commits, CLI and GitHub Action | TypeScript |
+| [**result-kit**](https://github.com/saizul/result-kit) | Tiny Result and Option types for TypeScript with async helpers and safeFetch | TypeScript |
+| [**faker-bd**](https://github.com/saizul/faker-bd) | Deterministic fake Bangladeshi test data: names, phones, addresses, Taka, Bangla dates | TypeScript |
+| [**sitemap-gen**](https://github.com/saizul/sitemap-gen) | Polite crawler that generates sitemap.xml with robots.txt, canonical and image support | Python |
+| [**logwatch-alert**](https://github.com/saizul/logwatch-alert) | Tail logs, match YAML rules and alert to Telegram, Slack, Discord or email | Python |
+| [**docker-janitor**](https://github.com/saizul/docker-janitor) | Safe Docker cleanup daemon with dry-run defaults and keep labels | Python |
+| [**mockapi-yaml**](https://github.com/saizul/mockapi-yaml) | Zero-code mock REST API from YAML or OpenAPI with CRUD resources | Python |
+| [**imgresize-api**](https://github.com/saizul/imgresize-api) | Self-hosted image resize and WebP/AVIF conversion with signed URLs | Python |
+| [**git-pulse**](https://github.com/saizul/git-pulse) | Git analytics: contributors, bus factor, churn, hotspots and an HTML report | Python |
+| [**pdf-swiss**](https://github.com/saizul/pdf-swiss) | Swiss-army PDF CLI: merge, split, watermark, encrypt, compress and more | Python |
+| [**dns-propagation**](https://github.com/saizul/dns-propagation) | Check DNS propagation across 24 resolvers plus SPF/DMARC/DKIM checks | Python |
+| [**wp-smtp-lite**](https://github.com/saizul/wp-smtp-lite) | No-upsell SMTP for WordPress with test transcript, email log and WP-CLI | PHP |
+| [**wp-redirect-manager**](https://github.com/saizul/wp-redirect-manager) | WordPress redirects with regex, 404 monitor, CSV import/export and WP-CLI | PHP |
+| [**wp-login-limit**](https://github.com/saizul/wp-login-limit) | WordPress brute-force protection with escalating lockouts and fail2ban lines | PHP |
+| [**wp-svg-safe**](https://github.com/saizul/wp-svg-safe) | Safe SVG uploads for WordPress with a strict allowlist sanitizer | PHP |
+| [**wp-duplicate-post-lite**](https://github.com/saizul/wp-duplicate-post-lite) | Duplicate posts and pages, with Rewrite and Republish | PHP |
 | [**db-backup-s3**](https://github.com/saizul/db-backup-s3) | MySQL/MariaDB and PostgreSQL backups in one Docker container: cron, encryption, S3/R2/B2/MinIO upload, retention, restore | Python |
 | [**webhook-relay**](https://github.com/saizul/webhook-relay) | Self-hosted webhook inbox: verifies GitHub, Stripe, Shopify and Slack signatures, retries, dead letters and replay | Python |
 | [**cron-explain**](https://github.com/saizul/cron-explain) | Explain cron expressions in English and Bangla, next run times in any time zone, and common-mistake warnings | TypeScript |
