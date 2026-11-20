@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**cookie-consent-lite**](https://github.com/saizul/cookie-consent-lite) | Tiny accessible cookie banner with Google Consent Mode v2, script blocking and Bangla/English | TypeScript |
+| [**pkg-size-guard**](https://github.com/saizul/pkg-size-guard) | Bundle and npm package size budgets in CI with PR-ready Markdown diffs and a GitHub Action | TypeScript |
+| [**cloudflare-dns-sync**](https://github.com/saizul/cloudflare-dns-sync) | Cloudflare DNS as code: YAML zones, plan/apply diff, export and a GitOps workflow | Python |
+| [**openapi-diff-check**](https://github.com/saizul/openapi-diff-check) | Catch breaking OpenAPI changes in CI with Markdown PR comments and an ignore file | Python |
+| [**wp-security-headers**](https://github.com/saizul/wp-security-headers) | WordPress security headers: CSP builder with Report-Only, HSTS, scan and server export | PHP |
 | [**retry-fetch**](https://github.com/saizul/retry-fetch) | fetch with retries, backoff + jitter, Retry-After, timeouts and a circuit breaker | TypeScript |
 | [**rate-limit-kit**](https://github.com/saizul/rate-limit-kit) | Token bucket and sliding-window rate limiting with Express, Hono and Redis support | TypeScript |
 | [**json-delta**](https://github.com/saizul/json-delta) | JSON diff to RFC 6902 patches, merge patches and a CI-friendly CLI | TypeScript |
