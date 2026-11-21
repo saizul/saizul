@@ -53,6 +53,11 @@ I'm **Saizul Amin**, an **AI Agent Developer & Automation Engineer** from **Dhak
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**wordpress-dev-skills**](https://github.com/saizul/wordpress-dev-skills) | Agent Skills for WordPress devs: plugin scaffold, security scanner, WP-CLI, performance, blocks, WooCommerce HPOS | Skills |
+| [**seo-audit-skills**](https://github.com/saizul/seo-audit-skills) | Agent Skills for SEO: technical audit, on-page score, schema, robots/sitemaps, hreflang, CWV, llms.txt, redirects | Skills |
+| [**vps-devops-skills**](https://github.com/saizul/vps-devops-skills) | Agent Skills for Linux servers: hardening audit, nginx/compose review, backups, incident triage, logs, TLS | Skills |
+| [**oss-maintainer-skills**](https://github.com/saizul/oss-maintainer-skills) | Agent Skills for maintainers: repo health score, README, onboarding, releases, CI, triage, launch | Skills |
+| [**api-design-skills**](https://github.com/saizul/api-design-skills) | Agent Skills for HTTP APIs: REST design, OpenAPI lint, RFC 9457 errors, webhooks, idempotency, OWASP API | Skills |
 | [**cookie-consent-lite**](https://github.com/saizul/cookie-consent-lite) | Tiny accessible cookie banner with Google Consent Mode v2, script blocking and Bangla/English | TypeScript |
 | [**pkg-size-guard**](https://github.com/saizul/pkg-size-guard) | Bundle and npm package size budgets in CI with PR-ready Markdown diffs and a GitHub Action | TypeScript |
 | [**cloudflare-dns-sync**](https://github.com/saizul/cloudflare-dns-sync) | Cloudflare DNS as code: YAML zones, plan/apply diff, export and a GitOps workflow | Python |
